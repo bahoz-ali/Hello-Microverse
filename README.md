@@ -7,26 +7,8 @@
 
 ## Built With
 
-- Html - css
-
-## Getting Started
-
-**you can directly clone this to your workplace**
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
+- html and css
 ## Authors
-
 
 👤 **Bahoz Ali**
 
